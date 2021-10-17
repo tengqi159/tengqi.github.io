@@ -27,7 +27,7 @@ CV (updating)
 ========
 [Ch-Version](https://github.com/tengqi159/tengqi.github.io/blob/main/CV.pdf) and En-Version(updating)
 
-![a](/images/cute1.jpg)
+![a](/images/cute1.png)
 
 News
 ====
@@ -36,7 +36,7 @@ Oct 17,2021: It is my first time to creat my own acadimic pages. Towards a more 
 Team 
 ------
 Research Advisors
-
+![a](/images/leizhang.png)
 
 
 
