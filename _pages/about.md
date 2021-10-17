@@ -31,7 +31,7 @@ CV (updating)
 
 
 <center class="half">
-    <img src="leizhang.png" width="200"/>  <img src="huguangwei.png" width="200",height="200"/>  <img src="t.png" width="200"/>
+    <img src="leizhang.png" width="200"/>  <img src="huguangwei.png" width="200"/>  <img src="t.png" width="200"/>
 </center>
 
 News
