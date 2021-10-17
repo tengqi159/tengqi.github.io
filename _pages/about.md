@@ -23,6 +23,7 @@ By the way, I must express my gratitude to [Stuart Geiger](https://pages.github.
     <img src="http://www.clustrmaps.com/map_v2.png?d=Low9E1eDuwQC9_4r3QNfSbfjL1XZUwXz09oQFvUEK2s&cl=ffffff">
 </a> 
 
+
 CV (updating)
 ========
 [Ch-Version](https://github.com/tengqi159/tengqi.github.io/blob/main/CV.pdf) and En-Version(updating)
@@ -31,16 +32,14 @@ CV (updating)
     <img src="cute1.png" width="200"/> 
 </center>
 
-
-
-
-
 News
 ====
-Oct 17,2021: It is my first time to creat my own acadimic pages. Towards a more professional academic road!
+Oct 17,2021: 
+It is my first time to creat my own acadimic pages. Towards a more professional academic road!
+
 
 Team 
-------
+=====
 Research Advisors
 
 <center class="half">
