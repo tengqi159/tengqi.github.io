@@ -10,6 +10,7 @@ redirect_from:
 Education experience
 ====
 Ph.D degree of Nanjing University, Nanjing, China,2021~
+
 M.S. degree from Nanjing Normal University, Nanjing, China, 2018-2021
 
 Research areas
@@ -26,13 +27,6 @@ Skill
 - python
 - tensorflow,pytorch,keras,caffe
 
-
-
-
-I received the M.S. degree from Nanjing Normal University, Nanjing, China, in 2021. I am currently pursuing the Ph.D degree of Nanjing University, Nanjing, China. 
-My research interests included Government Bigdata,E-government,Digital Government,Community Service based on Humman Activity Recognition,Machine Learning, Deep Learning,etc. My advisor was A.P [Lei Zhang](http://d.njnu.edu.cn/person/3288.html) during my master's degree, and now my Ph.D supervisor is [Guangwei Hu](https://im.nju.edu.cn/hgw/list.htm). 
-
-By the way, I must express my gratitude to [Stuart Geiger](https://pages.github.com) who supplied the nice academicpages template freely. 
 
 
 [Map widge](https://clustrmaps.com/site/1bkl9)
@@ -98,6 +92,13 @@ Schoolmates
 
 <div style="clear:both"></div>
 
-#### <a href="#top">[Go Back to Top]</a>
+Acknowledgement
+=====
+
+By the way, I must express my gratitude to [Stuart Geiger](https://pages.github.com) who supplied the nice academicpages template freely. 
 
 <a href="https://clustrmaps.com/site/1bkl9"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Low9E1eDuwQC9_4r3QNfSbfjL1XZUwXz09oQFvUEK2s&cl=ffffff" /></a>
+
+#### <a href="#top">[Go Back to Top]</a>
+
+
