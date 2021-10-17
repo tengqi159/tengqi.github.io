@@ -42,12 +42,13 @@ Team
 =====
 Research Advisors
 
-![huguangwei](huguangwei.png) 
-Guangwei Hu
-Professor  
-NU  
 
-<center class="half">
+<div align="center">
+<img src="huguangwei.png" width="200" height="200px" alt=" Guangwei Hu Professor NU" >
+<img src="leizhang.png" width="200" height="200px" alt="  Lei Zhang Associate Professor NNU  " >
+</div>
+
+<!-- <center class="half">
     <img src="huguangwei.png" width="200"/> 
  Guangwei Hu
 Professor
@@ -59,8 +60,21 @@ NU
   Lei Zhang
 Associate Professor
 NNU  
-</center>
+</center> -->
 
+Schoolmates
+====
+<center class="half">
+    <img src="huangwenbo.png" width="200" alt="图片说明"/> 
+ Wenbo Huang<br />
+M.S Student<br />
+NNU <br /> 
+  
+      <img src="kunwang.png" width="200"/> 
+[Kun Wang](https://github.com/KennCoder7)
+Ph.D Student
+SEU 
+</center>
 
 **Markdown generator**
 
