@@ -40,18 +40,29 @@ It is my first time to creat my own acadimic pages. Towards a more professional 
 
 Research Advisors 
 =====
-<div align="center">
-<img src="huguangwei.png" width="200" height="200px" alt=" Guangwei Hu Professor NU" >   <img src="leizhang.png" width="200" height="200px" alt=" Lei Zhang Associate Professor NNU  " >
-</div>
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="yintang.png" width = "65%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      Guangwei
+  	</div>
+</center>
+
+
+
 
 
 Research Advisors 
 =====
 <center class="half">
     <img src="huangwenbo.png" width="200" alt="图片说明"/> 
- Wenbo Huang<br />
-M.S Student<br />
-NNU <br /> 
+
   
       <img src="kunwang.png" width="200"/> 
 [Kun Wang](https://github.com/KennCoder7)
