@@ -29,8 +29,8 @@ CV (updating)
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 ![a](/images/t.png)
-![b](t.png)
-![b](t.png)
+![b](leizhang.png)
+![b](huguangwei.png)
 ![b](t.png)
 News
 ====
