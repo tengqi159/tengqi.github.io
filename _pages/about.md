@@ -52,6 +52,7 @@ Research Advisors
     display: inline-block;
     color: #999;
     padding: 2px;">
+      <font face="s" color=green size=5> ss，s，a</font>
       Guangwei Hu;Professor;NU	  Lei Zhang;Associate Professor; 
   	</div>
 </center>  
