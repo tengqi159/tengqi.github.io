@@ -7,6 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Education experience
+====
+Ph.D degree of Nanjing University, Nanjing, China,2021~
+M.S. degree from Nanjing Normal University, Nanjing, China, 2018-2021
+
+Research areas
+====
+- E-government
+- Deep Learning
+- Machine Learning
+- Digital Government
+- Government Big Data
+- Community Service based on Humman Activity Recognition
+
+Skill
+====
+- python
+- tensorflow,pytorch,keras,caffe
 
 
 
