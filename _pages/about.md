@@ -63,7 +63,8 @@ Research Advisors
 
 <div style="clear:both"></div>
 
-#### <strong>Schoolmates</strong>
+Schoolmates
+=====
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="kunwang.png"/>
