@@ -48,6 +48,13 @@ Professor
 NU  
 
 <center class="half">
+    <img src="huguangwei.png" width="200"/> 
+ Guangwei Hu
+Professor
+NU  
+</center>
+
+<center class="half">
     <img src="leizhang.png" width="200"/> 
   Lei Zhang
 Associate Professor
