@@ -38,14 +38,13 @@ Oct 17,2021:
 It is my first time to creat my own acadimic pages. Towards a more professional academic road!
 
 
-Team 
+Research Advisors 
 =====
-Research Advisors
+
 
 
 <div align="center">
-<img src="huguangwei.png" width="200" height="200px" alt=" Guangwei Hu Professor NU" >
-<img src="leizhang.png" width="200" height="200px" alt="  Lei Zhang Associate Professor NNU  " >
+<img src="huguangwei.png" width="200" height="200px" alt=" Guangwei Hu Professor NU" ><img src="leizhang.png" width="200" height="200px" alt="  Lei Zhang Associate Professor NNU  " >
 </div>
 
 <!-- <center class="half">
