@@ -45,7 +45,10 @@ Research Advisors()
 ![Guangwei Hu](huguangwei.png)
 
 <center class="half">
-   <img src="leizhang.png" width="200"/> <img src="hejun.png" width="200"/>
+    <img src="leizhang.png" width="200"/> 
+  Lei Zhang
+Associate Professor
+NNU
 </center>
 
 
