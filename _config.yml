@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "teqi159@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "TengQi@NJU"
   avatar           : "t.jpg"
-  bio              : "Ph.D/School of Information management/Nanjing university"
+  bio              : "Ph.D/School of Information management"
   location         : "Nangjing/Jiangsu"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
