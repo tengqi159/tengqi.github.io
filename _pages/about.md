@@ -23,6 +23,9 @@ By the way, I must express my gratitude to [Stuart Geiger](https://pages.github.
     <img src="http://www.clustrmaps.com/map_v2.png?d=Low9E1eDuwQC9_4r3QNfSbfjL1XZUwXz09oQFvUEK2s&cl=ffffff">
 </a> 
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Low9E1eDuwQC9_4r3QNfSbfjL1XZUwXz09oQFvUEK2s"></script>
+
+
 
 CV (updating)
 ========
