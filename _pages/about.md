@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: <center><font color=blue size=72>Welcome to my academic pages</font></center>
+title: <center><font color=lightblue size=72>Welcome to my academic pages</font></center>
+
 excerpt: "About me"
 author_profile: true
 redirect_from: 
