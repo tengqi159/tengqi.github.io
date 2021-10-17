@@ -1,21 +1,4 @@
-About me
-========
-I was received the M.S. degree from Nanjing Normal University, Nanjing, China, in 2021. I am currently pursuing the Ph.D degree of Nanjing University, Nanjing, China. 
-My research interests including Government Bigdata,E-government,Community Service based on Humman Activity Recognition,Machine Learning, Deep Learning,etc. My advisor was A.P [Lei Zhang](http://d.njnu.edu.cn/person/3288.html) during my master's degree, and now my Ph.D tutor is [Guangwei Hu](https://im.nju.edu.cn/hgw/list.htm). 
 
-[Map widge](https://clustrmaps.com/site/1bkl9)
-
-<a href="https://clustrmaps.com/site/1bkl9">
-    <img src="http://www.clustrmaps.com/map_v2.png?d=Low9E1eDuwQC9_4r3QNfSbfjL1XZUwXz09oQFvUEK2s&cl=ffffff">
-</a> 
-======
-
-CV (updating)[a](/files/paper1.pdf)
-
-
-
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------
