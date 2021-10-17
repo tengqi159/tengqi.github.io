@@ -71,7 +71,7 @@ Research Advisors
 #### <strong>Schoolmates</strong>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="t.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/qiteng.jpg"/>
 <p style="text-align: center;"> <a href="https://github.com/tengqi159">Qi Teng</a><br />Ph.D Student<br />NJU</p>
 </div>
 
