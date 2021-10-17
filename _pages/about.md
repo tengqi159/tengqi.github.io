@@ -40,7 +40,7 @@ It is my first time to creat my own acadimic pages. Towards a more professional 
 
 Team 
 =====
-Research Advisors()
+Research Advisors
 
 ![huguangwei](huguangwei.png) 
 Guangwei Hu
@@ -49,8 +49,8 @@ NU
 
 <center class="half">
     <img src="leizhang.png" width="200"/> 
-  Lei Zhang\\  
-Associate Professor//  
+  Lei Zhang
+Associate Professor
 NNU  
 </center>
 
