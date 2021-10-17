@@ -63,7 +63,7 @@ Research Advisors
 
 <div style="width: 14%; float: left; min-width: 9em;">
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/aiguosong.jpg"/>
-<p style="text-align: center;"> <a href="https://scholar.google.com/citations?hl=zh-CN&user=RjQ5TrEAAAAJ">Aiguo Song</a><br />Professor<br />SEU</p>
+<p style="text-align: left;"> <a href="https://scholar.google.com/citations?hl=zh-CN&user=RjQ5TrEAAAAJ">Aiguo Song</a><br />Professor<br />SEU</p>
 </div>
 
 <div style="clear:both"></div>
