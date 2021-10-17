@@ -42,8 +42,11 @@ Team
 =====
 Research Advisors()
 
-![huguangwei](huguangwei.png)
-![avatar](/user/desktop/doge.png)
+![huguangwei](huguangwei.png) 
+Lei Zhang
+Associate Professor  
+NNU  
+
 <center class="half">
     <img src="leizhang.png" width="200"/> 
   Lei Zhang\\  
