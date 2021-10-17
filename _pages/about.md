@@ -40,10 +40,12 @@ It is my first time to creat my own acadimic pages. Towards a more professional 
 
 Team 
 =====
-Research Advisors
+Research Advisors()
+
+![Guangwei Hu](huguangwei.png)
 
 <center class="half">
-    <img src="leizhang.png" width="200"/>  <img src="huguangwei.png" width="200"/>  <img src="t.png" width="200"/>
+   <img src="leizhang.png" width="200"/> <img src="hejun.png" width="200"/>
 </center>
 
 
