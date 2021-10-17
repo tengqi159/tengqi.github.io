@@ -86,7 +86,7 @@ Research Advisors
 </div>
 
 <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/huangweibo.jpg"/>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/huangwenbo.jpg"/>
 <p style="text-align: left;"> <a href="https://wenbohuang1002.github.io/">Wenbo Huang</a><br />M.S Student<br />NNU</p>
 </div>
 
