@@ -27,8 +27,8 @@ CV (updating)
 ========
 [Ch-Version](https://github.com/tengqi159/tengqi.github.io/blob/main/CV.pdf) and En-Version(updating)
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-![]
-![a](cute1.png)
+
+![a](/images/cute1.png)
 
 News
 ====
