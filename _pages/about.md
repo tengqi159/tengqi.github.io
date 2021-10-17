@@ -42,7 +42,7 @@ Team
 =====
 Research Advisors()
 
-![Guangwei Hu](huguangwei.png)
+![huguangwei](huguangwei.png)
 ![avatar](/user/desktop/doge.png)
 <center class="half">
     <img src="leizhang.png" width="200"/> 
