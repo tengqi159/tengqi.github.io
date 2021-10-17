@@ -26,7 +26,10 @@ By the way, I must express my gratitude to [Stuart Geiger](https://pages.github.
 CV (updating)
 ========
 [Ch-Version](https://github.com/tengqi159/tengqi.github.io/blob/main/CV.pdf) and En-Version(updating)
-![Editing a markdown file for a talk](/images/editing-talk.png)
+
+<center class="half">
+    <img src="cute1.png" width="200"/> 
+</center>
 
 
 
