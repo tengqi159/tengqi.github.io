@@ -43,9 +43,9 @@ Team
 Research Advisors()
 
 ![huguangwei](huguangwei.png) 
-Lei Zhang
-Associate Professor  
-NNU  
+Guangwei Hu
+Professor  
+NU  
 
 <center class="half">
     <img src="leizhang.png" width="200"/> 
