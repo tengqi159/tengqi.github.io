@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcom to my academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,13 +9,17 @@ redirect_from:
 ---
 
 
+
 About me
 ========
 I was received the M.S. degree from Nanjing Normal University, Nanjing, China, in 2021. I am currently pursuing the Ph.D degree of Nanjing University, Nanjing, China. 
 My research interests including Government Bigdata,E-government,Community Service based on Humman Activity Recognition,Machine Learning, Deep Learning,etc. My advisor was A.P [Lei Zhang](http://d.njnu.edu.cn/person/3288.html) during my master's degree, and now my Ph.D tutor is [Guangwei Hu](https://im.nju.edu.cn/hgw/list.htm). 
 
-[Map widge](https://clustrmaps.com/site/1bkl9)
+By the way, I must express my gratitude to [Stuart Geiger](https://pages.github.com) who supplied the nice academicpages template freely. 
 
+
+[Map widge](https://clustrmaps.com/site/1bkl9)
+========
 <a href="https://clustrmaps.com/site/1bkl9">
     <img src="http://www.clustrmaps.com/map_v2.png?d=Low9E1eDuwQC9_4r3QNfSbfjL1XZUwXz09oQFvUEK2s&cl=ffffff">
 </a> 
