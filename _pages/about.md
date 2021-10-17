@@ -52,7 +52,7 @@ Research Advisors
     display: inline-block;
     color: #999;
     padding: 2px;">
-      Guangwei Hu;Professor;NU&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 			  Lei Zhang;Associate Professor; 
+      Guangwei Hu;Professor;NU	  Lei Zhang;Associate Professor; 
   	</div>
 </center>  
 
