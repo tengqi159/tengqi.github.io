@@ -81,3 +81,5 @@ Schoolmates
 <div style="clear:both"></div>
 
 #### <a href="#top">[Go Back to Top]</a>
+
+<a href="https://clustrmaps.com/site/1bkl9"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Low9E1eDuwQC9_4r3QNfSbfjL1XZUwXz09oQFvUEK2s&cl=ffffff" /></a>
