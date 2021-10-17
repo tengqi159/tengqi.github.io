@@ -33,9 +33,7 @@ CV (updating)
 
 
 
-<center class="half">
-    <img src="leizhang.png" width="200"/>  <img src="huguangwei.png" width="200"/>  <img src="t.png" width="200"/>
-</center>
+
 
 News
 ====
@@ -44,8 +42,10 @@ Oct 17,2021: It is my first time to creat my own acadimic pages. Towards a more 
 Team 
 ------
 Research Advisors
-![a](/images/leizhang.png)
 
+<center class="half">
+    <img src="leizhang.png" width="200"/>  <img src="huguangwei.png" width="200"/>  <img src="t.png" width="200"/>
+</center>
 
 
 **Markdown generator**
