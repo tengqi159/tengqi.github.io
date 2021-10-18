@@ -15,7 +15,7 @@ Education experience
 ====
 Ph.D degree of Nanjing University, Nanjing, China,2021~
 
-M.S. degree from Nanjing Normal University, Nanjing, China, 2018-2021
+M.S. degree of Nanjing Normal University, Nanjing, China, 2018-2021
 
 Research areas
 ====
