@@ -100,23 +100,23 @@ Top conference Paper List(Updating)
 ====
 Standing on the shoulders of giants, walking in the academic forefront! 
  
- [<font color=brown size=72>CPVR2021</font>](https://openaccess.thecvf.com/CVPR2021?day=all)
+ [<font color=brown size=40>CPVR2021</font>](https://openaccess.thecvf.com/CVPR2021?day=all)
  
- [<font color=brown size=72>NIPS2021</font>](https://proceedings.neurips.cc/paper/2020)
+ [<font color=brown size=40>NIPS2021</font>](https://proceedings.neurips.cc/paper/2020)
 
- [<font color=brown size=72>ICLR2021</font>](https://openreview.net/group?id=ICLR.cc/2022/Conference)
+ [<font color=brown size=40>ICLR2021</font>](https://openreview.net/group?id=ICLR.cc/2022/Conference)
 
- [<font color=brown size=72>ICML2021</font>](https://openreview.net/group?id=ICLR.cc/2022/Conference)
+ [<font color=brown size=40>ICML2021</font>](https://openreview.net/group?id=ICLR.cc/2022/Conference)
 
- [<font color=brown size=72>ACL-IJCNLP 2021</font>](https://2021.aclweb.org/registration/accept/)
+ [<font color=brown size=40>ACL-IJCNLP 2021</font>](https://2021.aclweb.org/registration/accept/)
 
- [<font color=brown size=72>AAAI 2021</font>](https://dblp.uni-trier.de/db/conf/aaai/aaai2021.html)
+ [<font color=brown size=40>AAAI 2021</font>](https://dblp.uni-trier.de/db/conf/aaai/aaai2021.html)
 
- [<font color=brown size=72>ICCV 2021</font>](https://openaccess.thecvf.com/ICCV2021?day=all)
+ [<font color=brown size=40>ICCV 2021</font>](https://openaccess.thecvf.com/ICCV2021?day=all)
 
- [<font color=brown size=72>ACM MM 2021</font>1](https://2021.acmmm.org/main-track-list)
+ [<font color=brown size=40>ACM MM 2021</font>1](https://2021.acmmm.org/main-track-list)
 
- [<font color=darkyellow size=72>NeurIPS 2021</font>----->updting]
+ [<font color=darkyellow size=40>NeurIPS 2021</font>----->updting]
 
 Acknowledgement
 =====
